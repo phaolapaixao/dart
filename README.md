@@ -1,4 +1,4 @@
-# Sistema Acadêmico em Dart
+# Sistema Acadêmico simples em Dart
 
 Este é um projeto em **Dart** que simula um sistema acadêmico simples, permitindo o cadastro e gerenciamento de **alunos**, **professores**, **disciplinas** e **turmas**. Ele utiliza menus interativos no terminal para facilitar a navegação entre os diferentes perfis.
 
